@@ -1,0 +1,64 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/all_pac_man_ghosts_by_graysogoodwn-da24rr6.png</file>
+        <file>images/Apple.png</file>
+        <file>images/Cherry.png</file>
+        <file>images/error.png</file>
+        <file>images/ghostdownblue2.png</file>
+        <file>images/layout.png</file>
+        <file>images/layout2.png</file>
+        <file>images/layout3.png</file>
+        <file>images/layout4.png</file>
+        <file>images/layout5.png</file>
+        <file>images/lives.png</file>
+        <file>images/lives2.png</file>
+        <file>images/lives3.png</file>
+        <file>images/MPDO1.png</file>
+        <file>images/MPDO2.png</file>
+        <file>images/MPDO3.png</file>
+        <file>images/MPLO1.png</file>
+        <file>images/MPLO2.png</file>
+        <file>images/MPLO3.png</file>
+        <file>images/MPRO1.png</file>
+        <file>images/MPRO2.png</file>
+        <file>images/MPRO3.png</file>
+        <file>images/MPUO1.png</file>
+        <file>images/MPUO2.png</file>
+        <file>images/MPUO3.png</file>
+        <file>images/MPW.png</file>
+        <file>images/Orange.png</file>
+        <file>images/pacman menu.png</file>
+        <file>images/pacman sheet.png</file>
+        <file>images/Pacplus-switchbackdotcrusher.png</file>
+        <file>images/pathing.jpg</file>
+        <file>images/Pause.png</file>
+        <file>images/Play.png</file>
+        <file>images/red-down.png</file>
+        <file>images/red-down-2.png</file>
+        <file>images/red-down-2-inv.png</file>
+        <file>images/red-down-inv.png</file>
+        <file>images/red-left.png</file>
+        <file>images/red-left-2.png</file>
+        <file>images/red-left-2-inv.png</file>
+        <file>images/red-left-inv.png</file>
+        <file>images/red-right.png</file>
+        <file>images/red-right-2.png</file>
+        <file>images/red-right-2-inv.png</file>
+        <file>images/red-right-inv.png</file>
+        <file>images/red-up.png</file>
+        <file>images/red-up-2.png</file>
+        <file>images/red-up-2-inv.png</file>
+        <file>images/red-up-inv.png</file>
+        <file>images/score.png</file>
+        <file>images/score_small.png</file>
+        <file>images/splash.png</file>
+        <file>images/splash_small.png</file>
+        <file>images/Template.png</file>
+        <file>images/v4l-132295.jpg</file>
+        <file>images/trophy.png</file>
+        <file>images/blue.png</file>
+        <file>images/blue-r.png</file>
+        <file>images/oran.png</file>
+        <file>images/pink.png</file>
+    </qresource>
+</RCC>
